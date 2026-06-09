@@ -12,7 +12,9 @@ All projects are on my github page.
 You can find more about my professional journey and experience on
  https://www.linkedin.com/in/faith-komolafe/
 
-.🛠 Tech Stack
+🛠 Tech Stack:
+
+
 I utilized a modern development stack to ensure high performance and smooth animations: 
 Languages & Frameworks: JavaScript (React JS), Tailwind CSS, Python, Bootstrap.
 React & Frontend Concepts: React Hooks (useState, useEffect), State Management, REST APIs integration, Responsive Web Design. 
